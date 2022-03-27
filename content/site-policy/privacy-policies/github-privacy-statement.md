@@ -331,7 +331,6 @@ This Privacy Statement is licensed under this [Creative Commons Zero license](ht
 ## Contacting GitHub
 Questions regarding GitHub's Privacy Statement or information practices should be directed to our [Privacy contact form](https://support.github.com/contact/privacy).
 
-## Translations
 
 Below are translations of this document into other languages. In the event of any conflict, uncertainty, or apparent inconsistency between any of those versions and the English version, this English version is the controlling version.
 
